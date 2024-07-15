@@ -149,7 +149,7 @@ The function is called in the Octave terminal with the following command:
 
 octave
 
-[M] = monte_carlo(5, 4, 13, 10^4, util_value, mean_performances, performances, weights, 0.2, 0.1, 0.6)
+    [M] = monte_carlo(5, 4, 13, 10^4, util_value, mean_performances, performances, weights, 0.2, 0.1, 0.6)
 
 The smart(4,5,13) function must be called first to initialize the values.
 
